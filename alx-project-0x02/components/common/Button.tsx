@@ -8,7 +8,7 @@ import { type ButtonProps
         shape", "size
 }
 import { ButtonProps } from "@/interfaces";
-
+import { type ButtonProps }
 export default function Button({
   label,
   size = "medium",
