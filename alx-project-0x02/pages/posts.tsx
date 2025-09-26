@@ -18,7 +18,7 @@ export default function PostsPage() {
     };
     fetchPosts();
   }, []);
-
+getStaticProps
   return (
     <main>
       <Header />
