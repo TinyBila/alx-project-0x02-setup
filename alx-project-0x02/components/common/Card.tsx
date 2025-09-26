@@ -1,4 +1,5 @@
 import { CardProps } from "@/interfaces";
+import { type CardProps };
 export default function Card({ title, content }: CardProps) {
   return (
     <div className="border rounded-lg shadow-md p-6 bg-white hover:shadow-lg transition">
